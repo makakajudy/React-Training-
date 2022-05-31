@@ -1,0 +1,17 @@
+
+ function Fruits_vegs(){
+
+
+    return (
+        <>
+        <h1>Fruits and vegatables</h1>
+        
+        
+        
+        
+        </>
+
+    );
+ };
+
+ export default Fruits_vegs
